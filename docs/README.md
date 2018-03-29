@@ -4,7 +4,7 @@ ngrx est une implémentation de Redux permettant de gérer le contexte ou l'éta
 
 ## Support
 
-Retrouvez les slides du cours en [téléchargement](https://nodeandtyped.github.io/NodeAndTyped/techday-ngrx/_supports/slides.pptx).
+Retrouvez les slides du cours en [téléchargement](https://NodeLabs.github.io/techday-ngrx/_supports/slides.pptx).
 
 ## Objectifs
 
